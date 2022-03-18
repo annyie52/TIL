@@ -41,5 +41,6 @@
 3. 원격 저장소 연결 삭제 : `git remote remove <이름>`
 
 
+
 ## 원격 저장소로 push하는 코드
 - `git push <저장소 이름> <브런치 이름(master)>
